@@ -1,0 +1,21 @@
+{
+  "name": "black-modern",
+  "displayName": "Black modern",
+  "description": "Theme based on the default Dark Modern with a black window and different colors for editor comments and types to improve legibility.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-modern-color-theme.json"
+      }
+    ]
+  }
+}
