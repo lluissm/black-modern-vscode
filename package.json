@@ -13,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/lluissm/black-modern-vscode"
   },
+  "publisher": "lluissm",
   "contributes": {
     "themes": [
       {
